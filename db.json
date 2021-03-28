@@ -1,5 +1,9 @@
 
 {
-  "username": "user@gmail.com",
-  "password": "123"
+  "login": [
+    {
+      "username": "user@gmail.com",
+       "password": "123"
+    }
+  ]
 }
